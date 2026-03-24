@@ -44,4 +44,4 @@ Sou uma profissional que atua na intersecção entre o **comportamento humano** 
 ---
 
 ## 📊 Estatísticas
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=vision-friendly-dark&rank_icon=github)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LUIZA-BOTELHO&show_icons=true&theme=vision-friendly-dark&rank_icon=github)
