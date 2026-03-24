@@ -1,31 +1,47 @@
-## Olá, eu sou a Luiza
+# Olá, eu sou a Luiza 👋
+
 <a href="https://www.linkedin.com/in/luiza-grigorowsky-6176451b7" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-</a><br>
+</a>
 
-## 👋 Sobre Mim  
-Sou uma profissional que combina **psicanálise** 🧠, **engenharia social** 🛠️ e **análise de dados** 📊, com foco no uso de **IA** para soluções em **cibersegurança** 🔐. Trabalho na criação de sistemas digitais seguros e centrados no ser humano, integrando a experiência técnica com insights comportamentais. Busco sempre melhorar por meio de aprendizado, colaboração e soluções criativas para problemas.
+## 🧠 Cybersecurity Analyst | UX Designer | Psychoanalysis
 
-## 🛠️ Habilidades
+Sou uma profissional que atua na intersecção entre o **comportamento humano** e a **segurança digital**. Minha abordagem integra a profundidade da psicanálise com o rigor técnico da cibersegurança e o design centrado no usuário (UX), focando em soluções de IA que protegem e servem ao ser humano.
 
-### 🧠 **Psicanálise**  
-- Compreensão profunda do comportamento humano, motivação e identidade  
-- Pensamento analítico aplicado a dinâmicas sociais e confiança  
-- Conhecimento sobre vieses cognitivos e regulação emocional  
+---
 
-### 🛠️ **Engenharia Social**  
-- Conhecimento sobre táticas de manipulação e exploração psicológica  
-- Estudo dos fatores humanos e vieses cognitivos em segurança  
-- Pensamento baseado em cenários para antecipação de ameaças
+## 🛠️ Expertise & Habilidades
 
-### 📊 **Análise de Dados**  
-- Trabalho com ferramentas de análise de dados para gerar insights acionáveis  
-- Aplicação de métodos estatísticos e aprendizado de máquina para tomada de decisões  
-- Uso de IA para otimizar soluções baseadas em dados, especialmente em cibersegurança
+### 🔐 Cibersegurança & Engenharia Social
+* **Defesa Humana:** Estudo de táticas de manipulação, exploração psicológica e antecipação de ameaças baseada em cenários.
+* **Hardening & Infra:** Experiência com administração de sistemas Debian/Kali Linux, firewalls e protocolos de segurança.
+* **IA em Segurança:** Implementação de soluções inteligentes para modelagem de ameaças e resposta a incidentes.
 
-### 🔐 **Cibersegurança**  
-- Implementação de soluções de cibersegurança baseadas em IA  
-- Conhecimento de modelagem de ameaças, resposta a incidentes e protocolos de segurança  
-- Familiaridade com principais ferramentas e práticas de segurança
+### 🎨 UX Design & Design Comportamental
+* **UX Research:** Aplicação de conceitos psicanalíticos (vieses cognitivos e motivação) para criar interfaces seguras e intuitivas.
+* **Arquitetura de Informação:** Design de sistemas que reduzem o erro humano e aumentam a resiliência digital.
 
-</a><br>
+### 📊 Análise de Dados & IA
+* **Insights Acionáveis:** Uso de métodos estatísticos e Machine Learning para tomada de decisão estratégica.
+* **Prompt Engineering:** Otimização de fluxos de trabalho através de modelos de linguagem e automação.
+
+---
+
+## 🎓 Formação em Destaque
+* **Psicanálise:** (3º Período) – Foco em dinâmica social e processos inconscientes.
+* **Google Professional Certificate:** Cibersegurança (Concluído/Finalizando).
+* **Google Professional Certificate:** UX Design (Em andamento).
+* **Google Professional Certificate:** Suporte em TI (Próximo objetivo).
+
+---
+
+## ⚙️ Ferramentas & Tecnologias
+![Linux](https://img.shields.io/badge/Linux-Debian%20%2F%20Kali-d1d1d1?style=flat-square&logo=debian)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+
+---
+
+## 📊 Estatísticas
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=vision-friendly-dark&rank_icon=github)
